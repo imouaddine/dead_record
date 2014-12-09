@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/imouaddine/dead_record.svg?branch=master)](https://travis-ci.org/imouaddine/dead_record)
 
+[![Coverage Status](https://img.shields.io/coveralls/imouaddine/dead_record.svg)](https://coveralls.io/r/imouaddine/dead_record)
+
 
 TODO: Write a gem description
 
